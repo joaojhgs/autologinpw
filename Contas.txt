@@ -1,0 +1,47 @@
+Login1:       |Teste
+Senha1:       |Teste
+Char1:        |Teste
+
+Login2:       |
+Senha2:       |
+Char2:        |
+
+Login3:       |
+Senha3:       |
+Char3:        |
+
+Login4:       |
+Senha4:       |
+Char4:        |
+
+Login5:       |
+Senha5:       |
+Char5:        |
+
+Login6:       |
+Senha6:       |
+Char6:        |
+
+Login7:       |
+Senha7:       |
+Char7:        |
+
+Login8:       |
+Senha8:       |
+Char8:        |
+
+Login9:       |
+Senha9:       |
+Char9:        |
+
+Login10:      |
+Senha10:      |
+Char10:       |
+
+Login11:      |
+Senha11:      |
+Char11:       |
+
+Login12:      |
+Senha12:      |
+Char12:       |
